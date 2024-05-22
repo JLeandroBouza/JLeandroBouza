@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hola, soy Leandro Bouza 👋
 
+<div align="center">
+<h1 align="center">Hola, soy Leandro Bouza 👋</h1>
+</div>
+<img src="https://leandrobouza.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa9e6f308-ff09-44d3-aac9-c192bf86de08%2F078a14c3-ea16-43e9-b10f-e624af67f2cb%2FBANNER_centrado_chico.jpg?table=block&id=edf5e419-0780-4f21-a206-0361501ec11f&spaceId=a9e6f308-ff09-44d3-aac9-c192bf86de08&width=2000&userId=&cache=v2">
 <!--
 **JLeandroBouza/JLeandroBouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
