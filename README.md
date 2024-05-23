@@ -1,20 +1,24 @@
-## Hola, soy Leandro Bouza 👋
-
 <div align="center">
 <h1 align="center">Hola, soy Leandro Bouza 👋</h1>
 </div>
-<img src="https://leandrobouza.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa9e6f308-ff09-44d3-aac9-c192bf86de08%2F078a14c3-ea16-43e9-b10f-e624af67f2cb%2FBANNER_centrado_chico.jpg?table=block&id=edf5e419-0780-4f21-a206-0361501ec11f&spaceId=a9e6f308-ff09-44d3-aac9-c192bf86de08&width=2000&userId=&cache=v2">
+<img src="https://res.cloudinary.com/leandrobouza/image/upload/v1716422082/Portfolio/BANNER_CENTRADO_zibcx7.jpg">
+<img alt="Static Badge" src="https://img.shields.io/badge/Portafolio?style=social&link=https%3A%2F%2Fleandrobouza.notion.site%2FHola-Soy-Leandro-Bouza-Jr-Quality-Assurance-edf5e41907804f21a2060361501ec11f">
+
 <!--
 **JLeandroBouza/JLeandroBouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🐞 Sobre Mi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Hola! Soy un apasionado QA Manual en transición hacia el emocionante mundo de las pruebas automatizadas. Con un ojo crítico para los detalles y una dedicación incansable a la calidad del software, estoy comprometido a asegurar que cada producto que toco sea impecable y cumpla con los más altos estándares.
+
+Mi viaje en QA comenzó con la identificación de errores manuales y ha evolucionado hacia la implementación de scripts automatizados, donde cada día representa una nueva oportunidad para aprender, mejorar y aportar valor. Estoy constantemente en busca de nuevos conocimientos y técnicas innovadoras para optimizar los procesos de prueba.
+
+Mi enfoque meticuloso, combinado con una mentalidad de crecimiento continuo, me impulsa a no solo encontrar errores, sino a entender sus causas raíz y prevenirlos en el futuro. Estoy emocionado de conectar con otros profesionales y aprender juntos en esta dinámica comunidad de desarrollo y pruebas de software.
+
+<h2 align="center">¡Vamos a construir software más robusto y eficiente juntos!</h2>
+
+## 📚 Frameworks y Lenguajes de programación
+
+💻 Cypress
+💻 Puppeteer
+💻 Javascript
