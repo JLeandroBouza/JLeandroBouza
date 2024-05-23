@@ -11,7 +11,6 @@ Mi viaje en QA comenzó con la identificación de errores manuales y ha evolucio
 
 Mi enfoque meticuloso, combinado con una mentalidad de crecimiento continuo, me impulsa a no solo encontrar errores, sino a entender sus causas raíz y prevenirlos en el futuro. Estoy emocionado de conectar con otros profesionales y aprender juntos en esta dinámica comunidad de desarrollo y pruebas de software.
 
-<h2 align="center">¡Vamos a construir software más eficientes y mejores juntos!</h2>
 
 
 
